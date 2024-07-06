@@ -1,5 +1,5 @@
 Alumno: Mateo Villegas
-Docente: Gonzzalo Consorti
+Docente: Gonzalo Consorti
 Correo: mateovillegas012@gmail.com
 Curso: 4°3
 
