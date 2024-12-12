@@ -4,20 +4,11 @@ Gmail: mateovillegas012@gmail.com
 Division: 4°3era
 
 
-En el Branch "tp1" esta la resolucion de la actividad "TP N°1: Escrituras".
+En el Branch "Guia 1" esta la resolucion de la actividad "Guia de ejercicios 1".
 
 consigna:
+Guía para practicar el contenido visto de arduino, realizado de circuito, lectura y escritura analogica y digital, combinado, uso de condicional, variables y la función Map.
 
-Desarrollar un código y un esquema electrónico básico que haga una secuencia de luces con 3 leds RGB.
-La secuencia es la siguiente: 
-prende el 1°led en color rojo fuerte. (De forma analógica)
-se apaga el 1° led y se prende el 2° led en color magenta(de forma digital)
-se paga el 2° led y se prende el 3° led en color cian(De forma analógica y clarito)
-se paga el 3° led y se prende el 1° led  devuelta y así infinitamente.
-Entre cada cambio de color realizar un zumbido con un buzzer (que no dure mas de 100ms)
+Ayuda: 
+ejercicio (G):    usar pulsador con  funcionalidad de BOTON, cada vez que se presiona utilizar una variable de tipo contador que suba de 0 a 3 y luego pase a 1.  Después usar una estructura de control para ver el valor de la variable y prender cada led respectivamente
 
-
-
-Complicaciones:
-
-Por ahora ninguna, gracias a las clases grabadas entiendo el procedimeinto que se debe realizar.
