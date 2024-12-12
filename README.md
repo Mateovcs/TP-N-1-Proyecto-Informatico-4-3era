@@ -4,7 +4,7 @@ Gmail: mateovillegas012@gmail.com
 Division: 4°3era
 
 
-En el Branch "Guia 1" esta la resolucion de la actividad "Guia de ejercicios 1".
+En una carpeta esta el manejo digital y en otra el manejo analogico
 
 consigna:
 Guía para practicar el contenido visto de arduino, realizado de circuito, lectura y escritura analogica y digital, combinado, uso de condicional, variables y la función Map.
